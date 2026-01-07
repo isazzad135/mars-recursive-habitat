@@ -21,4 +21,4 @@ The solver is an **Iterative Agent-Based System** that operates on three primary
 
 ## Citation
 If you use this logic in your work, please cite:
-> Islam, M. S. (2026). *Adaptive and Recursive Modular Habitats for Sustainable Growth on Mars*. [Repository Link]
+> Islam, M. S. (2026). *Adaptive and Recursive Modular Habitats for Sustainable Growth on Mars* [Source code]. GitHub. https://github.com/isazzad135/mars-recursive-habitat
